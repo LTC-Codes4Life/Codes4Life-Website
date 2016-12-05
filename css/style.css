@@ -1,0 +1,35 @@
+body {
+    color: darkblue;
+    background: #afaeae;
+    font-family: sans-serif;
+}
+header {
+    border: 10px solid #4a4a4a;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+#link {
+    font-size: 125%;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    color: mediumpurple;
+}
+a:visited {
+    color: darkviolet
+}
+a:hover {
+    color: mediumvioletred;
+}
+a:active {
+    color: magenta;
+}
+nav {
+    text-align: center;
+}
